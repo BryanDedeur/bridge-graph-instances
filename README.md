@@ -26,11 +26,7 @@ This is a set of 20 undirected graphs all representing realistic truss bridge st
 | 19 | warren4          | 137       | 56           |
 | 20 | warren5          | 163       | 66           |
 
-To add to your project use git submodule.
-
-```
-git submodule add https://github.com/BryanDedeur/bridge-graph-instances
-```
+To add to your project I recommend [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 ## Reading .csv files
 > coming soon
