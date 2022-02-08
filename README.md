@@ -30,7 +30,7 @@ To add to your project I recommend [git submodule](https://git-scm.com/book/en/v
 
 ## Reading .csv files
 
-Each instance is stored in a .csv adjacency matrix format. The first row and the first column represents the vertex ids. You can determine connecting edges when the corresponding value in the row and column are greater than 0.
+Each instance is stored in a .csv adjacency matrix format. The first row and the first column represents the vertex ids. You can determine connecting edges if the value in the row and column is greater than 0.
 
 Here is a formatted example of pratt1.csv:
 
