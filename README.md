@@ -29,6 +29,9 @@ This is a set of 20 undirected graphs all representing realistic truss bridge st
 To add to your project I recommend [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 ## Reading .csv files
+
+v_i represents the vertex id. Here is pratt1.csv layed out in a table.
+
 |      | v_0      | v_1      | v_2      | v_3      | v_4 | v_5 | v_6 | v_7 | v_8      | v_9      | v_10     | v_11     | v_12     | v_13     | v_14     | v_15     | v_16     | v_17     |
 |------|----------|----------|----------|----------|-----|-----|-----|-----|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | v_0  | 0        | 0        | 6.5      | 0        | 0   | 4   | 4   | 0   | 0        | 7.632169 | 7.632169 | 0        | 0        | 0        | 0        | 0        | 0        | 0        |
