@@ -1,6 +1,6 @@
 # Steel Truss Bridge Problem Instances
  
-This is a set of 20 undirected graphs all representing realistic truss bridge structures. Each graph is stored in a .csv adjacency matrix format. Additionally included is .obj files for 2D vertex coordinates.
+This is a set of 20 undirected graphs all representing realistic truss bridge structures.  Additionally included is .obj files for 2D vertex coordinates.
 
 
 | Id | Problem Instance | Num Edges | Num Vertices |
@@ -30,7 +30,9 @@ To add to your project I recommend [git submodule](https://git-scm.com/book/en/v
 
 ## Reading .csv files
 
-v_i represents the vertex id. Here is pratt1.csv layed out in a table.
+Each instance is stored in a .csv adjacency matrix format. The first row and the first column represents the vertex ids. You can determine connecting edges when the corresponding value in the row and column are greater than 0.
+
+Here is a formatted example of pratt1.csv:
 
 |      | v_0      | v_1      | v_2      | v_3      | v_4 | v_5 | v_6 | v_7 | v_8      | v_9      | v_10     | v_11     | v_12     | v_13     | v_14     | v_15     | v_16     | v_17     |
 |------|----------|----------|----------|----------|-----|-----|-----|-----|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
