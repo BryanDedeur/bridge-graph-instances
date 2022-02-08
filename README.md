@@ -2,6 +2,8 @@
  
 This is a set of 20 undirected graphs all representing realistic truss bridge structures.  Additionally included is .obj files for 2D vertex coordinates.
 
+![howe truss 1](img/how1.png)
+
 
 | Id | Problem Instance | Num Edges | Num Vertices |
 |----|------------------|-----------|--------------|
