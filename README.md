@@ -1,6 +1,6 @@
 # Steel Truss Bridge Problem Instances
  
-This is a set of 20 undirected graphs all representing realistic truss bridge structures. Each graph is stored in a .csv adjacency matrix format. Additionally included is .obj files for vertex coordinates.
+This is a set of 20 undirected graphs all representing realistic truss bridge structures. Each graph is stored in a .csv adjacency matrix format. Additionally included is .obj files for 2D vertex coordinates.
 
 
 | Id | Problem Instance | Num Edges | Num Vertices |
