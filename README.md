@@ -1,4 +1,4 @@
-# Steel Truss Bridge Problem Instances
+# Truss Bridge Problem Instances
  
 This is a set of 20 undirected graphs all representing realistic truss bridge structures.  Additionally included is .obj files for 2D vertex coordinates.
 
@@ -24,6 +24,27 @@ This is a set of 20 undirected graphs all representing realistic truss bridge st
 | 18 | warren3          | 111       | 46           |
 | 19 | warren4          | 137       | 56           |
 | 20 | warren5          | 163       | 66           |
+
+## Large bridges
+
+| Problem Instance | Num Edges | Num Vertices |
+| ---------------- | --------- | ------------ |
+| howe-l1          | 245       | 98           |
+| howe-l2          | 505       | 198          |
+| howe-l3          | 765       | 298          |
+| howe-l4          | 999       | 388          |
+| pratt-l1         | 245       | 98           |
+| pratt-l2         | 505       | 198          |
+| pratt-l3         | 765       | 298          |
+| pratt-l4         | 999       | 388          |
+| ktruss-l1        | 249       | 106          |
+| ktruss-l2        | 487       | 204          |
+| ktruss-l3        | 759       | 316          |
+| ktruss-l4        | 997       | 414          |
+| warren-l1        | 241       | 96           |
+| warren-l2        | 501       | 196          |
+| warren-l3        | 761       | 296          |
+| warren-l4        | 995       | 386          |
 
 To add to your project I recommend [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
