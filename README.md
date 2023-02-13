@@ -1,6 +1,6 @@
 # Truss Bridge Problem Instances
  
-This is a set of 20 undirected graphs all representing realistic truss bridge structures.  Additionally included is .obj files for 2D vertex coordinates.
+This is a set of 40 undirected graphs all representing realistic truss bridge structures. There are 20 small and 20 large instances of 4 different truss structures, howe, ktruss, pratt, warren. Foreach instance there are two representations, a .csv adjacency matrix and .obj vertex coordinates and edge connections file (which can be imported into blender).
 
 | Id | Problem Instance | Num Edges | Num Vertices |
 |----|------------------|-----------|--------------|
