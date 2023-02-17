@@ -2,6 +2,11 @@
  
 This is a set of 40 undirected graphs all representing realistic truss bridge structures. There are 20 small and 20 large instances of 4 different truss structures, howe, ktruss, pratt, warren. Foreach instance there are two representations, a .csv adjacency matrix and .obj vertex coordinates (can be imported into 3d modeling software).
 
+To add to your project use:
+```
+git submodule add https://github.com/BryanDedeur/bridge-graph-instances
+```
+
 | Id | Problem Instance | Num Edges | Num Vertices |
 |----|------------------|-----------|--------------|
 | 1  | howe1            | 37        | 18           |
@@ -45,8 +50,6 @@ This is a set of 40 undirected graphs all representing realistic truss bridge st
 | warren-l2        | 501       | 196          |
 | warren-l3        | 761       | 296          |
 | warren-l4        | 995       | 386          |
-
-To add to your project I recommend [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 ## Reading .csv files
 
